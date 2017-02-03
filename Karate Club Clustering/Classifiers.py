@@ -20,7 +20,7 @@ def drawCommunities(G, partition, pos):
         dictList[com].append(node)
 
     # Get size of Communities
-    size = int(len(set(partition.values())))
+    size = len(set(partition.values()))
 
     # For loop to assign communities colors
     for i in range(size):
