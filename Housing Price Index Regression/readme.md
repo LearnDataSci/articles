@@ -11,7 +11,7 @@
         <tr>
             <td>housing_price_index</td>
             <td>Measures the price changes of residential housing.</td>
-            <td>Dependent Variable.</td>
+            <td>Dependent variable.</td>
             <td>https://fred.stlouisfed.org/series/USSTHPI</td>
         </tr>
         <tr>
@@ -82,7 +82,7 @@
         </tr>
         <tr>
             <td>federal_funds_rate</td>
-            <td>The interest rate at which banks lend reserve balances to other banks overnight. This is a measure for short term interest rates.</td>
+            <td>The interest rate at which banks lend reserve balances to other banks overnight. This is a measure for short-term interest rates.</td>
             <td>When this increases, housing_price_index decreases.</td>
             <td>https://fred.stlouisfed.org/series/FEDFUNDS</td>
         </tr>
