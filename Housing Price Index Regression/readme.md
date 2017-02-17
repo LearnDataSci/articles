@@ -59,7 +59,7 @@
         <tr>
             <td>not_in_labor_searched_for_work</td>
             <td>Number of people not in labor force but searched for work and are available for hire.</td>
-            <td>When this increases, housing prices decreases.</td>
+            <td>When this increases, housing_price_index decreases.</td>
             <td>https://fred.stlouisfed.org/series/LNU05026642</td>
         </tr>
         <tr>
