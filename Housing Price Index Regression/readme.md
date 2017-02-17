@@ -76,7 +76,7 @@
         </tr>
         <tr>
             <td>losers</td>
-            <td>Number of people person who've been involuntarily terminated from a job.</td>
+            <td>Number of people who've been involuntarily terminated from a job.</td>
             <td>When this increases, housing_price_index decreases.</td>
             <td>https://fred.stlouisfed.org/series/U2RATE</td>
         </tr>
