@@ -100,7 +100,7 @@
         </tr>
         <tr>
             <td>long_interest_rate</td>
-            <td>Long-term interest rates refer to government bonds maturing in ten years.</td>
+            <td>Long-term interest rates refer to the yield on 10 year bonds.</td>
             <td>When this increases, housing_price_index decreases.</td>
             <td>http://www.irrationalexuberance.com/main.html?src=%2F</td>
         </tr>
