@@ -39,8 +39,8 @@
             <td>https://fred.stlouisfed.org/series/W068RCQ027SBEA</td>
         </tr>
         <tr>
-            <td>ppi (Producer Price Index)</td>
-            <td>A price index that measures the average changes in prices received by domestic producers for their output.</td>
+            <td>producer_price_index</td>
+            <td>A price index that measures the average change in prices received by domestic producers for their output.</td>
             <td>When this increases, housing_price_index increases.</td>
             <td>https://fred.stlouisfed.org/series/PPIACO</td>
         </tr>
@@ -82,7 +82,7 @@
         </tr>
         <tr>
             <td>federal_funds_rate</td>
-            <td>The interest rate banks and lend reserve balances to other banks overnight. This is a measure for short term interest rates.</td>
+            <td>The interest rate banks lend reserve balances to other banks overnight. This is a measure for short term interest rates.</td>
             <td>When this increases, housing_price_index decreases.</td>
             <td>https://fred.stlouisfed.org/series/FEDFUNDS</td>
         </tr>
