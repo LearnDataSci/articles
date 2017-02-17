@@ -46,7 +46,7 @@
         </tr>
         <tr>
             <td>total_unemployed</td>
-            <td>Total Number of Unemployed People.</td>
+            <td>Total number of unemployed people.</td>
             <td>When this increases, housing_price_index decreases.</td>
             <td>https://fred.stlouisfed.org/series/U6RATE</td>
         </tr>
