@@ -27,7 +27,7 @@
             <td></td>
         </tr>
         <tr>
-            <td>gdp (Gross Domestic Product)</td>
+            <td>gross_domestic_product</td>
             <td>A monetary measure of the market value of all final goods and services produced in a period.</td>
             <td>When this increases, housing_price_index increases.</td>
             <td>https://fred.stlouisfed.org/series/GDP</td>
