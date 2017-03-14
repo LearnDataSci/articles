@@ -18,7 +18,6 @@ Descriptions of all the variables in this post are as follows:
     <tr><td>state_percentile_15</td><td>The school's percentile in 2015</td></tr>
     <tr><td>stu_teach_ratio</td><td>The school's student to teacher ratio</td></tr>
     <tr><td>school_type</td><td>The type of school (public, private, magnet, alternative, etc)</td></tr>
-    <tr><td>percent_two_plus_races</td><td>The percent of the student body...</td></tr>
     <tr><td>avg_score_15</td><td>The school's avgerage test score for 2015</td></tr>
     <tr><td>avg_score_16</td><td>The school's average test score for 2016</td></tr>
     <tr><td>full_time_teachers</td><td>The school's total full time teachers</td></tr>
