@@ -1,4 +1,4 @@
-A repository for the code, files, and other assets used in the [LearnDataSci](http://www.learndatasci.com) blog posts.
+A repository for the code, files, and other assets used in LearnDataSci articles.
 
 Links to posts on LearnDataSci and their repos:
 + [Predicting Reddit News Sentiment with Naive Bayes and Other Text Classifiers](https://www.learndatasci.com/?p=1301&preview_id=1301&preview_nonce=6bea24ae56&post_format=standard&_thumbnail_id=1305&preview=true) [[<b>repo</b>](../../tree/master/Predicting%20Reddit%20News%20Sentiment)]
