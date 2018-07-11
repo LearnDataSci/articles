@@ -1,7 +1,9 @@
 A repository for the code, files, and other assets used in LearnDataSci articles.
 
-Links to posts on LearnDataSci and their repos:
-+ [Predicting Reddit News Sentiment with Naive Bayes and Other Text Classifiers](https://www.learndatasci.com/?p=1301&preview_id=1301&preview_nonce=6bea24ae56&post_format=standard&_thumbnail_id=1305&preview=true) [[<b>repo</b>](../../tree/master/Predicting%20Reddit%20News%20Sentiment)]
+Links to posts on LearnDataSci and their repos (sorted by recency):
++ [Building a Recommendation Engine with Locality-Sensitive Hashing (LSH) in Python](https://www.learndatasci.com/tutorials/building-recommendation-engine-locality-sensitive-hashing-lsh-python/) [[<b>repo</b>](../../tree/master/LSH%20Recommendation%20Engine)]
++ [Reinforcement Q-Learning from Scratch in Python with OpenAI Gym](https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/) [[<b>repo</b>](../../tree/master/Intro%20to%20Reinforcement%20Q-Learning)]
++ [Predicting Reddit News Sentiment with Naive Bayes and Other Text Classifiers](https://www.learndatasci.com/tutorials/predicting-reddit-news-sentiment-naive-bayes-text-classifiers/) [[<b>repo</b>](../../tree/master/Predicting%20Reddit%20News%20Sentiment)]
 + [Python for Finance, Part III: A Moving Average Trading Strategy](https://www.learndatasci.com/python-finance-part-3-moving-average-trading-strategy/) [[<b>repo</b>](../../tree/master/Python%20for%20Finance%2C%20Part%203)]
 + [Python for Finance, Part II: Intro to Quantitative Trading Strategies](https://www.learndatasci.com/python-finance-part-2-intro-quantitative-trading-strategies/) [[<b>repo</b>](../../tree/master/Python%20for%20Finance%2C%20Part%202)]
 + [Python for Finance, Part I: Yahoo Finance API, pandas, and matplotlib](https://www.learndatasci.com/python-finance-part-yahoo-finance-api-pandas-matplotlib/) [[<b>repo</b>](../../tree/master/Python%20For%20Finance%2C%20Part%20I)]
