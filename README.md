@@ -1,6 +1,7 @@
 A repository for the code, files, and other assets used in LearnDataSci articles.
 
 Links to posts on LearnDataSci and their repos (sorted by recency):
++ [From Good to Great Data Science, Part 1: Correlations and Confidence](https://www.learndatasci.com/tutorials/good-great-data-science-correlations-and-confidence/) [[<b>repo</b>](../../tree/master/From%20Good%20to%20Great%20Data%20Science%2C%20Part%201%20Correlations%20and%20Confidence)]
 + [Ultimate Guide to Web Scraping with Python Part 1: Requests and BeautifulSoup](https://www.learndatasci.com/tutorials/ultimate-guide-web-scraping-w-python-requests-and-beautifulsoup/) [[<b>repo</b>](../../tree/master/Ultimate%20Guide%20to%20Web%20Scraping/Part%201%20-%20Requests%20and%20BeautifulSoup)]
 + [Building a Recommendation Engine with Locality-Sensitive Hashing (LSH) in Python](https://www.learndatasci.com/tutorials/building-recommendation-engine-locality-sensitive-hashing-lsh-python/) [[<b>repo</b>](../../tree/master/LSH%20Recommendation%20Engine)]
 + [Reinforcement Q-Learning from Scratch in Python with OpenAI Gym](https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/) [[<b>repo</b>](../../tree/master/Intro%20to%20Reinforcement%20Q-Learning)]
