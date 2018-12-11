@@ -1,7 +1,5 @@
 A repository for the code, files, and other assets used in LearnDataSci articles.
 
-https://github.com/LearnDataSci/article-resources/tree/master/
-
 Links to posts on LearnDataSci and their repos (sorted by recency):
 + [How to Stream Text Data from Twitch with Sockets in Python](https://learndatasci.com/tutorials/how-stream-text-data-twitch-sockets-python/) [[<b>repo</b>](../../tree/master/How%20to%20Stream%20Text%20Data%20from%20Twitch%20with%20Sockets%20in%20Python)]
 + [Python Pandas Tutorial: A Complete Introduction for Beginners](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/) [[<b>repo</b>](../../tree/master/Python%20Pandas%20Tutorial%20A%20Complete%20Introduction%20for%20Beginners)]
